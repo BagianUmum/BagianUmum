@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+echo "# Repository-Baru" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/brianetlab/Repository-Baru.git
+git push -u origin master
