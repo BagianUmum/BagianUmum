@@ -18,5 +18,5 @@ echo "# Repository-Baru" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/brianetlab/Repository-Baru.git
+git remote add origin https://github.com/BagumPusbang.github.io
 git push -u origin master
