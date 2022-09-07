@@ -4,7 +4,7 @@ git add README.md
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/BagianUmum/BagianUmum.git
+git remote add origin https://github.com/BagianUmum/BagianUmum.github.io
 
 git push -u origin master
 
